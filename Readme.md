@@ -131,8 +131,11 @@ Robust fairness metrics — explicitly measure robustness gaps between demograph
 🧾 References
 
 Goodfellow et al. (2015). Explaining and Harnessing Adversarial Examples. arXiv:1412.6572
+
 Madry et al. (2018). Towards Deep Learning Models Resistant to Adversarial Attacks. ICLR
+
 Santurkar et al. (2019). How Does Batch Normalization Help Optimization? NeurIPS
+
 PLFS (Periodic Labour Force Survey), Government of India
 
 ✅ Summary
