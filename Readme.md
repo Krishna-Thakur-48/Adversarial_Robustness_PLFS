@@ -18,6 +18,7 @@ The objective is to understand:
 ---
 
 ## 🧩 Project Structure
+```
 
 ADVERSARIAL_ROBUSTNESS_PLFS/
 │
@@ -44,6 +45,7 @@ ADVERSARIAL_ROBUSTNESS_PLFS/
 │ └── summary.md # Detailed multi-notebook findings and conclusions
 │
 └── Readme.md # Project overview (this file)
+```
 
 
 ---
@@ -56,6 +58,7 @@ ADVERSARIAL_ROBUSTNESS_PLFS/
 python -m venv venv
 source venv/bin/activate        # or venv\Scripts\activate (Windows)
 pip install -r requirements.txt
+```
 
 
 2️⃣ Run the Notebooks
